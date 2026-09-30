@@ -70,7 +70,7 @@ A modern and responsive weather application built with **React** that provides *
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/alamin-one/weather-lens.git
+git clone https://github.com/alaminhere/weather-lens.git
 ```
 
 ### Navigate to the Project
