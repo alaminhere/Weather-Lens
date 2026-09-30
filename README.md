@@ -115,15 +115,15 @@ http://localhost:5173
 
 ##  Repository
 
-https://github.com/alamin-one/Weather-Lens
+https://github.com/alaminhere/Weather-Lens
 
 ---
 
 ## Developed By
 
 **Al-Amin**
-
-GitHub: https://github.com/alamin-one
+Portfolio: alaminhere.com
+ 
 
 ---
 
